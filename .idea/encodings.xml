@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Dance/src/org/albert/menu/main/MenuManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dance/src/org/albert/menu/pojo/Button.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dance/src/org/albert/menu/pojo/CommonButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dance/src/org/albert/menu/pojo/ComplexButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dance/src/org/albert/menu/pojo/ViewButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dance/src/org/albert/menu/util/MyX509TrustManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dance/src/org/albert/menu/util/WeixinUtil.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

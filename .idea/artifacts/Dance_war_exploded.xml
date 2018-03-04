@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Dance:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dance_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Dance/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Dance" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
